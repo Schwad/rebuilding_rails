@@ -35,9 +35,3 @@ went swimmingly!***
 * I got redirect working! and default pages (show it off)***
 * optional: go through my reading the file, couldn't get the file reading quite right and maybe a blindspot is raw file
 loading and reading
-
-
--------
-
-- do an icebreaker warmup question. if you were to make your own framework, what would you call it and why?
-- watch noah's talk thing tbh
