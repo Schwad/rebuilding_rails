@@ -2,6 +2,15 @@
 
 # 1:
 
+GEM AUTHORING <<-- gem
+VERSIONING <<--
+QUOTE ABOUT REPEATING TECHNIQUE <--
+HOW WE DO DIRECTORIES <---
+NOTABLE DIVERSIONS
+I AM SURPRISINGLY CRAP AT REQUIRING
+const_get ruby magic <<--
+
+
 * I like how although we focus on thinking about rails when we get into this, this gives us a good gem authoring foundation
 which I think is sorely lacking in the ruby community
 * Version 0.0.1 is a good shout I think. it allows you to iterate through three tiers of breaking changes
@@ -35,3 +44,5 @@ went swimmingly!***
 * I got redirect working! and default pages (show it off)***
 * optional: go through my reading the file, couldn't get the file reading quite right and maybe a blindspot is raw file
 loading and reading
+
+# 3:
